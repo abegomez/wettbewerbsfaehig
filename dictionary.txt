@@ -1,6 +1,6 @@
 Raesfeld - a municipality in the district of Borken in the state of North Rhine-Westphalia, Germany
 Flughafen - Airport
-Berlin
+Berlin - capital of Germany
 Bratwurst -Bratwurst
 Hauptstrasse - Main Street
 Brot - loaf
@@ -11,9 +11,9 @@ Musik - Musik
 Porsche - Car Make
 BMW - Car Make
 Biergarten - Beer Garden (Open Air Establishment)
-Ratskeller
-Dirndel
-Audi
+Ratskeller - cellar of a town hall (esp. for use as a beer hall)
+Dirndel - traditional feminine dress
+Audi - Car Brand
 Schloss - lock
 Lederhose - Leather pants
 Munich - the capital and most populous city of Bavaria, the second most populous German federal state
