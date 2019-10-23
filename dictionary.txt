@@ -1,4 +1,4 @@
-Raesfeld
+Raesfeld - a municipality in the district of Borken in the state of North Rhine-Westphalia, Germany
 Flughafen - Airport
 Berlin
 Bratwurst -Bratwurst
@@ -16,6 +16,6 @@ Dirndel
 Lederhose
 Audi
 Schloss
-Munich
+Munich - the capital and most populous city of Bavaria, the second most populous German federal state
 wettbewerbsfaehig - competitive
 Mehlhase
