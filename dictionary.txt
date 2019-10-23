@@ -1,16 +1,16 @@
 Raesfeld
 Flughafen - Airport
 Berlin
-Bratwurst
-Hauptstrasse
+Bratwurst -Bratwurst
+Hauptstrasse - Main Street
 Brot - loaf
-Gauss
+Gauss - Carl Friedrich Gauss (mathematician/physicist)
 Klimaanlage - Air Conditioning
 Rammstein - German Band
 Musik - Musik
-Porsche
-BMW
-Biergarten
+Porsche - Car Make
+BMW - Car Make
+Biergarten - Beer Garden (Open Air Establishment)
 Ratskeller
 Dirndel
 Lederhose
